@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-16"?>
+<!--Created with Expression Encoder version 4.0.4276.0-->
+<Settings
+  Version="1"
+  CreationTime="09/06/2016 22:18:47">
+  <Job
+    OutputDirectory="C:\Users\robervillargarcia\Desktop\MICROSOFT items\Encoder"
+    ActualOutputDirectory="C:\Users\robervillargarcia\Desktop\MICROSOFT items\Encoder\RVG 07-09-2016 0.00.46(2)"
+    SaveJobFileToOutputDirectory="True"
+    CreateSubfolder="True"
+    DefaultMediaOutputFileName="{OriginalFilename}.{DefaultExtension}"
+    JobId="RVG 07-09-2016 0.00.46(2)">
+    <MediaItems>
+      <MediaItem
+        OverlayRect="0, 0, 0, 0"
+        OverlayOpacity="1"
+        OverlayTransparentBackground="False"
+        OverlayLoop="True"
+        OverlayLoopingGap="00:00:00"
+        OverlayFadeInDuration="00:00:00"
+        OverlayFadeOutDuration="00:00:00"
+        OverlayLayoutMode="WholeSequence"
+        OverlayAudioGainLevel="6.4"
+        AudioOverlayFileName="C:\Users\robervillargarcia\Desktop\MICROSOFT items\pistas de sonido\U_Make_Me_Feel.mp3"
+        AudioOverlayLoop="True"
+        AudioOverlayLoopingGap="00:00:00"
+        AudioOverlayLayoutMode="WholeSequence"
+        AudioOverlayGainLevel="5"
+        AudioOverlayFadeInDuration="00:00:00"
+        AudioOverlayFadeOutDuration="00:00:00"
+        DeinterlaceMode="AutoPixelAdaptive"
+        ResizeQuality="Super"
+        NormalizeAudio="False"
+        AudioGainLevel="1"
+        SrsAudio="False"
+        WindowsMediaProfileLanguage="es-ES"
+        CropRect="145, 0, 1010, 568"
+        VideoResizeMode="Stretch"
+        ScriptCommandOutput="Header"
+        ThumbnailTime="00:00:00"
+        ThumbnailMode="FirstFrame"
+        ThumbnailJpegCompression="75"
+        ThumbnailCodec="Jpeg"
+        ThumbnailSize="512, 224"
+        ThumbnailEmbed="False"
+        MarkerThumbnailJpegCompression="75"
+        MarkerThumbnailCodec="Jpeg"
+        MarkerThumbnailSize="512, 224">
+        <OutputFormat>
+          <WindowsMediaOutputFormat>
+            <AudioProfile>
+              <WmaAudioProfile
+                Codec="WmaProfessional"
+                Channels="2"
+                BitsPerSample="16"
+                SamplesPerSecond="44100">
+                <Bitrate>
+                  <ConstantBitrate
+                    Bitrate="64"
+                    IsTwoPass="False"
+                    BufferWindow="00:00:00" />
+                </Bitrate>
+              </WmaAudioProfile>
+            </AudioProfile>
+            <VideoProfile>
+              <AdvancedVC1VideoProfile
+                SmoothStreaming="False"
+                ClosedGop="False"
+                OutputMode="Raw"
+                OptimizeForAnimation="False"
+                DifferentialQuantization="Off"
+                InLoopFilter="False"
+                MotionSearchRange="Level1"
+                BFrameCount="2"
+                AdaptiveDeadZone="Off"
+                AdaptiveGop="True"
+                DenoiseFilter="False"
+                KeyFrameDistance="00:00:05"
+                MotionChromaSearch="LumaOnly"
+                MotionMatchMethod="SAD"
+                NoiseEdgeRemovalFilter="False"
+                OverlapSmoothingFilter="False"
+                MotionVectorCost="Static"
+                Complexity="Normal"
+                AutoFit="False"
+                AspectRatio="16,9"
+                Force16Pixels="False"
+                FrameRate="0"
+                SeparateFilesPerStream="True"
+                NumberOfEncoderThreads="0">
+                <Streams
+                  AutoSize="False"
+                  FreezeSort="False">
+                  <StreamInfo
+                    Size="2668, 1500">
+                    <Bitrate>
+                      <VariableConstrainedBitrate
+                        PeakBitrate="10194"
+                        PeakBufferWindow="00:00:04"
+                        AverageBitrate="5364"
+                        IsTwoPass="True" />
+                    </Bitrate>
+                  </StreamInfo>
+                </Streams>
+              </AdvancedVC1VideoProfile>
+            </VideoProfile>
+          </WindowsMediaOutputFormat>
+        </OutputFormat>
+        <Sources>
+          <Source
+            AudioStreamIndex="-1">
+            <Clips>
+              <Clip
+                StartTime="00:00:00"
+                EndTime="00:00:46.1160000" />
+            </Clips>
+            <CaptionFiles />
+          </Source>
+        </Sources>
+        <Markers />
+        <ScriptCommands />
+        <Metadata>
+          <Item
+            Name="Title"
+            Value="Galactic Blue Spiderweb" />
+          <Item
+            Name="Author"
+            Value="Rober Villar" />
+          <Item
+            Name="Copyright"
+            Value="SOFTWARE RVG DESIGNS" />
+          <Item
+            Name="Description"
+            Value="3D Blender Animation developed by Rober Villar ." />
+          <Item
+            Name="WM/Year"
+            Value="2016" />
+          <Item
+            Name="WM/OriginalReleaseYear"
+            Value="2016" />
+          <Item
+            Name="WM/Category"
+            Value="Animation 3D" />
+          <Item
+            Name="WM/MediaClassPrimaryID"
+            Value="DB9830BD-3AB3-4FAB-8A37-1A995F7FF74B" />
+          <Item
+            Name="WM/MediaClassSecondaryID"
+            Value="44051B5B-B103-4B5C-92AB-93060A9463F0" />
+          <Item
+            Name="WM/ProviderRating"
+            Value="safe for child" />
+          <Item
+            Name="WM/EncodedBy"
+            Value="Rober Villar on Expresion Encoder" />
+        </Metadata>
+        <UserInterfaceSettings
+          EnableCropRect="True" />
+      </MediaItem>
+    </MediaItems>
+    <MediaFiles>
+      <MediaFile
+        OverlayRect="0, 0, 0, 0"
+        OriginalOverlaySize="0, 0"
+        OverlayOpacity="1"
+        OverlayTransparentBackground="False"
+        OverlayVideoDuration="00:00:00"
+        OverlayLoop="True"
+        OverlayLoopingGap="00:00:00"
+        OverlayFadeInDuration="00:00:00"
+        OverlayFadeOutDuration="00:00:00"
+        OverlayLayoutMode="WholeSequence"
+        OverlayAudioGainLevel="6.4"
+        OverlayContainsAudio="False"
+        AudioOverlayFileName="C:\Users\robervillargarcia\Desktop\MICROSOFT items\pistas de sonido\U_Make_Me_Feel.mp3"
+        AudioOverlayDuration="00:02:09.9070000"
+        AudioOverlayLoop="True"
+        AudioOverlayLoopingGap="00:00:00"
+        AudioOverlayLayoutMode="WholeSequence"
+        AudioOverlayGainLevel="5"
+        AudioOverlayFadeInDuration="00:00:00"
+        AudioOverlayFadeOutDuration="00:00:00"
+        DeinterlaceMode="AutoPixelAdaptive"
+        ResizeQuality="Super"
+        NormalizeAudio="False"
+        AudioGainLevel="1"
+        SrsAudio="False"
+        SourceVideoProfile="SourceProfile"
+        WindowsMediaProfileLanguage="es-ES"
+        CropRect="145, 0, 1010, 568"
+        VideoSize="2668, 1500"
+        OriginalVideoSize="1300, 568"
+        OriginalAspectRatio="325,142"
+        VideoResizeMode="Stretch"
+        DisplayVideoSize="2667, 1500"
+        OutputAspectRatio="16,9"
+        OriginalInterlaced="False"
+        TotalBitrate="5428"
+        MaxBitrate="5428"
+        EstimatedFileSize="31290000"
+        FileDuration="00:00:46.1160000"
+        PlaybackDuration="00:00:46.1160000"
+        OutputFileEstimatedSize="31289706"
+        Name="ScreenCapture_06-09-2016 23.03.41"
+        SourceFileName="C:\Users\robervillargarcia\Desktop\MICROSOFT items\Encoder\ScreenCapture_06-09-2016 23.03.41.xesc"
+        Status="FinishedEncode"
+        FileType="Audio, Video"
+        OriginalFileType="Video"
+        OriginalFrameRate="25"
+        OutputFrameRate="25"
+        MainMediaFile="C:\Users\robervillargarcia\Desktop\MICROSOFT items\Encoder\ScreenCapture_06-09-2016 23.03.41.xesc"
+        ScriptCommandOutput="Header"
+        ThumbnailMode="FirstFrame"
+        ThumbnailTime="00:00:00"
+        ThumbnailCodec="Jpeg"
+        ThumbnailJpegCompression="75"
+        ThumbnailSize="512, 224"
+        ThumbnailEmbed="False"
+        MarkerThumbnailCodec="Jpeg"
+        MarkerThumbnailJpegCompression="75"
+        MarkerThumbnailSize="512, 224"
+        OutputFiles="(Colección)"
+        ActualOutputFileName="ScreenCapture_06-09-2016 23.03.41.wmv"
+        ActualOutputFileFullPath="C:\Users\robervillargarcia\Desktop\MICROSOFT items\Encoder\RVG 07-09-2016 0.00.46(2)\ScreenCapture_06-09-2016 23.03.41.wmv">
+        <Sources>
+          <Source
+            AudioStreamIndex="-1">
+            <Clips>
+              <Clip
+                StartTime="00:00:00"
+                EndTime="00:00:46.1160000" />
+            </Clips>
+            <CaptionFiles />
+          </Source>
+        </Sources>
+        <Markers />
+        <ScriptCommands />
+        <Metadata>
+          <Item
+            Name="Title"
+            Value="Galactic Blue Spiderweb" />
+          <Item
+            Name="Author"
+            Value="Rober Villar" />
+          <Item
+            Name="Copyright"
+            Value="SOFTWARE RVG DESIGNS" />
+          <Item
+            Name="Description"
+            Value="3D Blender Animation developed by Rober Villar ." />
+          <Item
+            Name="WM/Year"
+            Value="2016" />
+          <Item
+            Name="WM/OriginalReleaseYear"
+            Value="2016" />
+          <Item
+            Name="WM/Category"
+            Value="Animation 3D" />
+          <Item
+            Name="WM/MediaClassPrimaryID"
+            Value="DB9830BD-3AB3-4FAB-8A37-1A995F7FF74B" />
+          <Item
+            Name="WM/MediaClassSecondaryID"
+            Value="44051B5B-B103-4B5C-92AB-93060A9463F0" />
+          <Item
+            Name="WM/ProviderRating"
+            Value="safe for child" />
+          <Item
+            Name="WM/EncodedBy"
+            Value="Rober Villar on Expresion Encoder" />
+        </Metadata>
+        <OutputFormat>
+          <WindowsMediaOutputFormat>
+            <AudioProfile>
+              <WmaAudioProfile
+                Codec="WmaProfessional"
+                Channels="2"
+                BitsPerSample="16"
+                SamplesPerSecond="44100">
+                <Bitrate>
+                  <ConstantBitrate
+                    Bitrate="64"
+                    IsTwoPass="False"
+                    BufferWindow="00:00:00" />
+                </Bitrate>
+              </WmaAudioProfile>
+            </AudioProfile>
+            <VideoProfile>
+              <AdvancedVC1VideoProfile
+                SmoothStreaming="False"
+                ClosedGop="False"
+                OutputMode="Raw"
+                OptimizeForAnimation="False"
+                DifferentialQuantization="Off"
+                InLoopFilter="False"
+                MotionSearchRange="Level1"
+                BFrameCount="2"
+                AdaptiveDeadZone="Off"
+                AdaptiveGop="True"
+                DenoiseFilter="False"
+                KeyFrameDistance="00:00:05"
+                MotionChromaSearch="LumaOnly"
+                MotionMatchMethod="SAD"
+                NoiseEdgeRemovalFilter="False"
+                OverlapSmoothingFilter="False"
+                MotionVectorCost="Static"
+                Complexity="Normal"
+                AutoFit="False"
+                AspectRatio="16,9"
+                Force16Pixels="False"
+                FrameRate="0"
+                SeparateFilesPerStream="True"
+                NumberOfEncoderThreads="0">
+                <Streams
+                  AutoSize="False"
+                  FreezeSort="False">
+                  <StreamInfo
+                    Size="2668, 1500">
+                    <Bitrate>
+                      <VariableConstrainedBitrate
+                        PeakBitrate="10194"
+                        PeakBufferWindow="00:00:04"
+                        AverageBitrate="5364"
+                        IsTwoPass="True" />
+                    </Bitrate>
+                  </StreamInfo>
+                </Streams>
+              </AdvancedVC1VideoProfile>
+            </VideoProfile>
+          </WindowsMediaOutputFormat>
+        </OutputFormat>
+        <UserInterfaceSettings
+          EnableCropRect="True" />
+      </MediaFile>
+    </MediaFiles>
+  </Job>
+  <FileTable>
+    <File
+      Name="C:\Users\robervillargarcia\Desktop\MICROSOFT items\Encoder\RVG 07-09-2016 0.00.46(2)\ScreenCapture_06-09-2016 23.03.41.wmv"
+      LastWrite="09/06/2016 22:18:46"
+      FileType="MediaFile"
+      ItemDataIndex="0"
+      MarkerIndex="-1"
+      OutputFileType="MediaFile" />
+    <File
+      Name="C:\Users\robervillargarcia\Desktop\MICROSOFT items\Encoder\RVG 07-09-2016 0.00.46(2)\ScreenCapture_06-09-2016 23.03.41_Thumb.jpg"
+      LastWrite="09/06/2016 22:18:47"
+      FileType="Thumbnail"
+      ItemDataIndex="0"
+      MarkerIndex="-1" />
+    <File
+      Name="C:\Users\robervillargarcia\Desktop\MICROSOFT items\Encoder\RVG 07-09-2016 0.00.46(2)\JobFile.xej"
+      LastWrite="09/06/2016 22:18:47"
+      FileType="SaveJobFile"
+      ItemDataIndex="-1"
+      MarkerIndex="-1" />
+    <File
+      Name="C:\Users\robervillargarcia\Desktop\MICROSOFT items\Encoder\ScreenCapture_06-09-2016 23.03.41.xesc"
+      LastWrite="09/06/2016 21:04:31" />
+  </FileTable>
+  <GpuSettings
+    Enabled="False" />
+  <RebuildLog>
+    <RebuildEntry>Rebuild File doesn't Exists: C:\Users\robervillargarcia\Desktop\MICROSOFT items\Encoder\RVG 07-09-2016 0.00.46(2)\Settings.dat</RebuildEntry>
+    <RebuildEntry>Rebuild File doesn't Exists: C:\Users\robervillargarcia\Desktop\MICROSOFT items\Encoder\RVG 07-09-2016 0.00.46(2)\Canceled Encodes\Settings.dat</RebuildEntry>
+  </RebuildLog>
+</Settings>
